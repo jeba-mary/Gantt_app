@@ -3095,6 +3095,11 @@ browserslist@^4.14.5, browserslist@^4.14.6:
     escalade "^3.1.1"
     node-releases "^1.1.66"
 
+bryntum-gantt@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/bryntum-gantt/-/bryntum-gantt-2.1.0.tgz#7f3f21d63ea28b7d302e81de54e8fb502487be6b"
+  integrity sha512-BfJ6Q9gs3DBrGxx+pmUY6nmUW8Z3c8/B8GwAGMOjMN1s/XpY8JHWPrTNcG87X0bdE0rb9aOI8UirtX7uzQU5EA==
+
 bser@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/bser/-/bser-2.1.1.tgz#e6787da20ece9d07998533cfd9de6f5c38f4bc05"
